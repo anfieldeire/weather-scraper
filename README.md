@@ -1,6 +1,6 @@
 # weather-scraper
 The project scrapes weather information from weather.com based on 2 user provided inputs
-  - zipcode
+  - zipcode (5 digit)
   - timeframe: hourly, today, tenday, weekend
 
 ## Prerequisites
