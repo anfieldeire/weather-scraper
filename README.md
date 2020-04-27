@@ -1,5 +1,5 @@
 # weather-scraper
-webscraper for weather
+The project scrapes weather information from weather.com based on 2 user provided inputs
 
 ## Prerequisites
 Python 3.6
