@@ -3,7 +3,13 @@ webscraper for weather
 
 ## Prerequisites
 Python 3.6
-requirements.txt
+
+*Install the following modules:
+*install bs4
+*install requests
+install re
+install datetime
 
 ## Installation
+
 
