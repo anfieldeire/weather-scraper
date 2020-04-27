@@ -1,5 +1,7 @@
 # weather-scraper
 The project scrapes weather information from weather.com based on 2 user provided inputs
+  - zipcode
+  - timeframe: hourly, today, tenday, weekend
 
 ## Prerequisites
 Python 3.6 (tested on version 3.6 only)
