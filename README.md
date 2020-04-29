@@ -22,5 +22,8 @@ Python 3.6 (tested on version 3.6 only)
   - Enter the zip code for where you want the weather scraped
   - Enter the timeframe from the list provided
   - The output will print to screen
+## Testing
+- Just run the test_scrape file. If it returns 200 test passed. Otherwise it will fail
+  
 
 
