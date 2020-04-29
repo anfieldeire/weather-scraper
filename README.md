@@ -11,6 +11,7 @@ Python 3.6 (tested on version 3.6 only)
  - install requests
  - install re
  - install datetime
+ - install random
 
 ## Installation
  - Download the 3 python files and the requirements.txt file
