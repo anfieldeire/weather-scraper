@@ -131,6 +131,3 @@ def weekend(result):
 
 
 
-
-
-
